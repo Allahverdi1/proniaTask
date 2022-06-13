@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    margin: 10px 70px;
+}
+.mb-3{
+    width: 250px;
+    margin: 0 20px;
+}
+
+.navbar i{
+    margin-left: 50px;
+}
+#intro1 .cards {
+    background-color: rgba(40, 66, 205, 0.91);
+}
+.col-md-4{
+    font-size: 20px;
+}
+p{
+    margin: 0 10px;
+}
+h4{
+    margin: 5px 10px;
+}
+.carName a{
+    text-decoration: none;
+}
+.carName li{
+    list-style: none;
+}
